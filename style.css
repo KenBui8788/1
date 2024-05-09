@@ -1,0 +1,13 @@
+input:checked ~ table {
+  opacity: 0%;
+  transition: 5s;
+}
+.xxx {
+  color: pink;
+  font-style: oblique;
+}
+#yyy {
+  columns: 1;
+  content: icon;
+  color: chocolate;
+}
